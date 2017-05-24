@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abajo">10dp</dimen>
+    <dimen name="abajo1">20dp</dimen>
+    <dimen name="texto20">20dp</dimen>
+    <dimen name="texto60">60dp</dimen>
+</resources>
